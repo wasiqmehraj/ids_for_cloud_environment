@@ -1,1 +1,1 @@
-## This directory contains the extractors and extracted CSVs
+## This directory contains the extractors 
